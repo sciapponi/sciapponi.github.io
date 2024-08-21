@@ -32,7 +32,7 @@ mW for a 1s audio clip inference.
 ## LibriTTS
 
 <audio controls>
-  <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/0.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ site.baseurl }}/resources/tinyvocos_audio_out/tts/phinet/0.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
