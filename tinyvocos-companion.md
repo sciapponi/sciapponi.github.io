@@ -9,8 +9,5 @@ permalink: /tinyvocos-companion
 # Exported Audio
 
 ## LibriTTS
-<audio controls>
-  <source src="{{ site.baseurl}}/resources/tinyvocos_audio_out/tts/phinet/0.mp3" type="audio/mpeg">
-</audio>
-
+!audio[ audio1 ]( {{ site.baseurl}}/resources/tinyvocos_audio_out/tts/phinet/0.mp3 ){ size=10 duration=10 cycle=forever }
 ## Tacotron
