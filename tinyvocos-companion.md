@@ -26,13 +26,16 @@ IoS and Embedded Audio scenarios. This is supported by our
 best performing model achieving a MOS score of 3.95/5, while
 utilizing 1.5MiB of Flash and 517KiB of ram and consuming 252
 mW for a 1s audio clip inference.
-
 # Exported Audio
 
 ## LibriTTS
 
+<!-- <audio controls>
+  <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/0.mp3' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> -->
 <audio controls>
-  <source src="{{ site.baseurl }}/resources/tinyvocos_audio_out/tts/phinet/0.mp3" type="audio/mpeg">
+  <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/0.mp3' | url_for }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
