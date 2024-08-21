@@ -325,6 +325,7 @@ mW for a 1s audio clip inference.
 <table>
 
     <tr>
+        <th> Text </th>
         <th> Waveglow </th>
         <th> Xinet </th>
         <th> Phinet </th>
@@ -332,6 +333,7 @@ mW for a 1s audio clip inference.
     </tr>
 
 <tr>
+<td> In the next sections you are going to hear a lot of dystopian fiction quotes </td>
 <td>
 
             <audio controls>
@@ -366,6 +368,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> Reality is that which, when you stop believing in it, doesn't go away. </td>
 <td>
 
             <audio controls>
@@ -400,6 +403,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> You don't have to burn books to destroy a culture. Just get people to stop reading them. </td>
 <td>
 
             <audio controls>
@@ -434,6 +438,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> We've got to have rules and obey them. After all, we're not savages. </td>
 <td>
 
             <audio controls>
@@ -468,6 +473,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> The greatest ideas are the simplest. </td>
 <td>
 
             <audio controls>
@@ -502,6 +508,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> In a time of deceit, telling the truth is a revolutionary act. </td>
 <td>
 
             <audio controls>
@@ -536,6 +543,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> If liberty means anything at all, it means the right to tell people what they do not want to hear. </td>
 <td>
 
             <audio controls>
@@ -570,6 +578,7 @@ mW for a 1s audio clip inference.
 </td>
 </tr>
 <tr>
+<td> All animals are equal, but some animals are more equal than others. </td>
 <td>
 
             <audio controls>
