@@ -4,7 +4,9 @@ title: "Tiny Vocos Companion Website"
 permalink: /tinyvocos-companion
 ---
 
-# Abstract
+### TinyVOCOS Companion Website
+
+## Abstract
 
 Aggiungere risultati e Parte su Internet of Sounds
 Neural vocoders convert time-frequency representations, such
@@ -26,9 +28,10 @@ IoS and Embedded Audio scenarios. This is supported by our
 best performing model achieving a MOS score of 3.95/5, while
 utilizing 1.5MiB of Flash and 517KiB of ram and consuming 252
 mW for a 1s audio clip inference.
-# Exported Audio
 
-## LibriTTS
+## Exported Audio
+
+### LibriTTS
 
 <!-- <audio controls>
   <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/0.mp3' | relative_url }}" type="audio/mpeg">
@@ -39,4 +42,4 @@ mW for a 1s audio clip inference.
   Your browser does not support the audio element.
 </audio>
 
-## Tacotron
+### Tacotron
