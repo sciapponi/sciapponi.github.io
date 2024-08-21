@@ -6,7 +6,7 @@ permalink: /tinyvocos-companion
 
 # TinyVOCOS Companion Website
 
-Authors: Stefano Ciapponi, Francesco Paissan, Alberto Ancilotto, Elisabetta Farella
+Authors: Stefano Ciapponi, Francesco Paissan, Alberto Ancilotto, Elisabetta Farella <br>
 Email: sciapponi@fbk.eu, fpaissan@fbk.eu, aancilotto@fbk.eu, efarella@fbk.eu
 
 ## Abstract
