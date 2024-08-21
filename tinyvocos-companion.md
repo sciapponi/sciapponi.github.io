@@ -4,11 +4,13 @@ title: "Tiny Vocos Companion Website"
 permalink: /tinyvocos-companion
 ---
 
-### TinyVOCOS Companion Website
+# TinyVOCOS Companion Website
+
+Authors: Stefano Ciapponi, Francesco Paissan, Alberto Ancilotto, Elisabetta Farella
+Email: sciapponi@fbk.eu, fpaissan@fbk.eu, aancilotto@fbk.eu, efarella@fbk.eu
 
 ## Abstract
 
-Aggiungere risultati e Parte su Internet of Sounds
 Neural vocoders convert time-frequency representations, such
 as mel-spectrograms, into corresponding time representations.
 Vocoders are essential for generative applications in audio (e.g.
