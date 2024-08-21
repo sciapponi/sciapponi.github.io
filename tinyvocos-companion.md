@@ -12,21 +12,21 @@ Email: sciapponi@fbk.eu, fpaissan@fbk.eu, aancilotto@fbk.eu, efarella@fbk.eu
 ## Abstract
 
 Neural vocoders convert time-frequency representations, such
-as mel-spectrograms, into corresponding time representations.
+as mel-spectrograms, into corresponding time representations. <br>
 Vocoders are essential for generative applications in audio (e.g.
-text-to-speech and text-to-audio). In the Internet of Sounds
+text-to-speech and text-to-audio). <br> In the Internet of Sounds
 domain, generating speech signals at the edge enables the
 employment of smart assistants that leverage text-to-speech
-pipelines. This paper presents a scalable vocoder architecture
+pipelines. <br> This paper presents a scalable vocoder architecture
 for small-footprint edge devices. We test the developed model
 capabilities qualitatively and quantitatively on single-speaker
 and multi-speaker datasets and benchmark inference speed and
-memory consumption on four microcontrollers. Additionally, we
+memory consumption on four microcontrollers. <br> Additionally, we
 study the power consumption on an ARM Cortex-M7-powered
 board. Our results demonstrate the feasibility of deploying
 neural vocoders on resource-constrained edge devices, potentially
 enabling new applications in IoT and edge computing scenarios
-IoS and Embedded Audio scenarios. This is supported by our
+IoS and Embedded Audio scenarios. <br> This is supported by our
 best performing model achieving a MOS score of 3.95/5, while
 utilizing 1.5MiB of Flash and 517KiB of ram and consuming 252
 mW for a 1s audio clip inference.
