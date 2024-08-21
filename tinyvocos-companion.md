@@ -322,7 +322,6 @@ mW for a 1s audio clip inference.
 
 
 ### Tacotron
-
 <table>
 
     <tr>
@@ -336,7 +335,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/0.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/0.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -344,7 +343,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/0.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/0.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -352,7 +351,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/0.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/0.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -360,41 +359,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/0.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-</tr>
-<tr>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/1.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/1.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/1.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/1.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/0.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -404,7 +369,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/2.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/1.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -412,7 +377,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/2.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/1.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -420,7 +385,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/2.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/1.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -428,41 +393,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/2.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-</tr>
-<tr>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/3.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/3.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/3.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/3.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/1.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -472,7 +403,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/4.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/2.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -480,7 +411,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/4.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/2.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -488,7 +419,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/4.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/2.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -496,42 +427,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/4.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-
-            </audio>
-        
-</td>
-</tr>
-<tr>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/5.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/5.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/5.mp3' | url_for }}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-        
-</td>
-<td>
-
-            <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/5.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/2.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -541,7 +437,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/6.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/3.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -549,7 +445,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/6.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/3.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -557,7 +453,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/6.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/3.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -565,7 +461,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/6.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/3.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -575,7 +471,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/waveglow/7.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/4.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -583,7 +479,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/xinet/7.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/4.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -591,7 +487,7 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/phinet/7.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/4.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
@@ -599,7 +495,109 @@ mW for a 1s audio clip inference.
 <td>
 
             <audio controls>
-              <source src="{{ 'resources/tinyvocos_audio_out/tts/vocos/7.mp3' | url_for }}" type="audio/mpeg">
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/4.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+</tr>
+<tr>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/5.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/5.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/5.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/5.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+</tr>
+<tr>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/6.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/6.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/6.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/6.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+</tr>
+<tr>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/waveglow/7.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/xinet/7.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/phinet/7.mp3' | url_for }}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+        
+</td>
+<td>
+
+            <audio controls>
+              <source src="{{ 'resources/tinyvocos_audio_out/tacotron/vocos/7.mp3' | url_for }}" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
         
