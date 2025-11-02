@@ -1,0 +1,22 @@
+title: Stefano Ciapponi
+description: Research and Development Portfolio
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme-specific settings
+github:
+  is_project_page: true
+  repository_url: https://github.com/sciapponi/sciapponi.github.io
+baseurl: /sciapponi.github.io
+logo: /assets/img/profile.jpg
+github:
+  is_project_page: true
+  repository_url: https://github.com/sciapponi/sciapponi.github.io
+social_links:
+  github: sciapponi

@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Stefano Ciapponi
+description: Research Engineer and Ph.D. Student at École Polytechnique
+repository: sciapponi/sciapponi.github.io
