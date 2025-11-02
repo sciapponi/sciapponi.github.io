@@ -28,6 +28,19 @@
         <p>{{ site.description }}</p>
         {% endif %}
 
+        <p class="site-contact" style="margin-top:6px;">
+          {% assign has_prev = false %}
+          {% if site.author.email %}
+            <a href="mailto:{{ site.author.email }}">Email</a>{% assign has_prev = true %}
+          {% endif %}
+          {% if site.author.linkedin %}
+            {% if has_prev %} · {% endif %}<a href="{{ site.author.linkedin }}">LinkedIn</a>{% assign has_prev = true %}
+          {% endif %}
+          {% if site.github.owner_url %}
+            {% if has_prev %} · {% endif %}<a href="{{ site.github.owner_url }}">GitHub</a>
+          {% endif %}
+        </p>
+
         {% if site.repository %}
         <p class="view"><a href="https://github.com/{{ site.repository }}">View the Project on GitHub <small>{{ site.repository }}</small></a></p>
         {% endif %}

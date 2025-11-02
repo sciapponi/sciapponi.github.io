@@ -76,8 +76,4 @@ Species-aware bird classifier for resource-constrained acoustic monitoring devic
   - [View Paper](https://ieeexplore.ieee.org/document/10704173/keywords#keywords)
 
 
-## Contact
-
-- Email: [stefano.sc.ciapponi@gmail.com](mailto:stefano.sc.ciapponi@gmail.com)
-- [LinkedIn Profile](https://www.linkedin.com/in/stefano-ciapponi-3040b9201)
-- [GitHub](https://github.com/sciapponi)
+<!-- Contact moved to header -->
