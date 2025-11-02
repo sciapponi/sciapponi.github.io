@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+    {% include head-custom.html %}
+    <!-- end custom head snippets -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.author.avatar %}
+        <img class="site-avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name | default: site.title }}" style="width:96px; height:96px; object-fit:cover; border-radius:50%; margin:10px 0;" />
+        {% endif %}
+
+        {% if site.description %}
+        <p>{{ site.description }}</p>
+        {% endif %}
+
+        {% if site.repository %}
+        <p class="view"><a href="https://github.com/{{ site.repository }}">View the Project on GitHub <small>{{ site.repository }}</small></a></p>
+        {% endif %}
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        {% if site.github.owner_url and site.github.owner_name %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+  </html>

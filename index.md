@@ -5,10 +5,6 @@ title: Home
 
 # Stefano Ciapponi
 
-<p>
-  <img src="{{ site.author.avatar }}" alt="Stefano Ciapponi" style="width:140px; height:140px; object-fit:cover; border-radius:50%;">
-</p>
-
 Signal Processing Researcher & PhD Candidate specializing in algorithm-system co-design for edge computing systems. I develop end-to-end solutions for temporal signals in edge computing scenarios, with a focus on bioacoustics conservation technology.
 
 > "I'm a professional jack-of-all-trades who designs messy systems to analyze even messier systems."
