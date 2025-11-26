@@ -19,6 +19,18 @@ Signal Processing Researcher & PhD Candidate specializing in algorithm-system co
 
 ## Research & Projects
 
+### Conservation Technology
+
+#### [Enabling Multi-Species Bird Classification on Low-Power Bioacoustic Loggers (WrenNet)](https://arxiv.org/abs/2509.20103)
+Species-aware bird classifier for resource-constrained acoustic monitoring devices.
+- **Achievement**: Efficient species classification on AudioMoth devices
+- **Key Features**: 
+  - Fancy DDSP semi-learnable frequency warping.
+  - 16x more efficient on RPi3 compared to Birdnet.
+  - Works on Audiomoth!
+- **[Paper](https://arxiv.org/abs/2509.20103)**
+- **[Repository](https://github.com/wren-framework/wrennet)**
+  
 ### Human-Centered Audio Processing
 
 #### [TinyVOCOS](tinyvocos-companion)
@@ -34,16 +46,7 @@ Research on Neural Audio Codec optimization for edge to gateway compression.
 - **[GitHub Organization](https://github.com/Exploiting-NACs)**
 - **[Paper](https://cmsworkshops.com/EUSIPCO2025/view_paper.php?PaperNum=1275)**
 
-### Conservation Technology
 
-#### [Enabling Multi-Species Bird Classification on Low-Power Bioacoustic Loggers (WrenNet)](https://arxiv.org/abs/2509.20103)
-Species-aware bird classifier for resource-constrained acoustic monitoring devices.
-- **Achievement**: Efficient species classification on AudioMoth devices
-- **Key Features**: 
-  - Fancy DDSP semi-learnable frequency warping.
-  - 16x more efficient on RPi3 compared to Birdnet.
-  - Works on Audiomoth!
-- **[Paper](https://arxiv.org/abs/2509.20103)**
 
 ## Expertise
 
