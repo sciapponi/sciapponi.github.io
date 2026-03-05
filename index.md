@@ -7,7 +7,7 @@ title: Home
 
 Signal Processing Researcher & PhD Candidate specializing in algorithm-system co-design for edge computing systems. I develop end-to-end solutions for temporal signals in edge computing scenarios, with a focus on bioacoustics conservation technology.
 
-> "I'm a professional jack-of-all-trades who designs messy systems to analyze even messier systems."
+
 
 ## Current Roles
 
@@ -23,7 +23,7 @@ Signal Processing Researcher & PhD Candidate specializing in algorithm-system co
 
 #### [Enabling Multi-Species Bird Classification on Low-Power Bioacoustic Loggers (WrenNet)](https://arxiv.org/abs/2509.20103)
 Species-aware bird classifier for resource-constrained acoustic monitoring devices.
-- **Achievement**: Efficient species classification on AudioMoth devices
+- **Achievement**: Efficient species classification on AudioMoth devices, **Accepted at ICASSP 2026!**
 - **Key Features**: 
   - Fancy DDSP semi-learnable frequency warping.
   - 16x more efficient on RPi3 compared to Birdnet.
